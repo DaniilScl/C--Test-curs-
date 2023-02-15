@@ -1,0 +1,15 @@
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\PR 10 uh\ZD5\bin\Debug\net7.0\ZD5.exe
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\PR 10 uh\ZD5\bin\Debug\net7.0\ZD5.deps.json
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\PR 10 uh\ZD5\bin\Debug\net7.0\ZD5.runtimeconfig.json
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\PR 10 uh\ZD5\bin\Debug\net7.0\ZD5.dll
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\PR 10 uh\ZD5\bin\Debug\net7.0\ZD5.pdb
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\PR 10 uh\ZD5\obj\Debug\net7.0\ZD5.csproj.AssemblyReference.cache
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\PR 10 uh\ZD5\obj\Debug\net7.0\ZD5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\PR 10 uh\ZD5\obj\Debug\net7.0\ZD5.AssemblyInfoInputs.cache
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\PR 10 uh\ZD5\obj\Debug\net7.0\ZD5.AssemblyInfo.cs
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\PR 10 uh\ZD5\obj\Debug\net7.0\ZD5.csproj.CoreCompileInputs.cache
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\PR 10 uh\ZD5\obj\Debug\net7.0\ZD5.dll
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\PR 10 uh\ZD5\obj\Debug\net7.0\refint\ZD5.dll
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\PR 10 uh\ZD5\obj\Debug\net7.0\ZD5.pdb
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\PR 10 uh\ZD5\obj\Debug\net7.0\ZD5.genruntimeconfig.cache
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\PR 10 uh\ZD5\obj\Debug\net7.0\ref\ZD5.dll

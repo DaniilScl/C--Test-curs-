@@ -1,0 +1,16 @@
+C:\Users\hdhys\Downloads\Test5\Test6\bin\Debug\Test6.exe.config
+C:\Users\hdhys\Downloads\Test5\Test6\bin\Debug\Test6.exe
+C:\Users\hdhys\Downloads\Test5\Test6\bin\Debug\Test6.pdb
+C:\Users\hdhys\Downloads\Test5\Test6\obj\Debug\Test6.csproj.AssemblyReference.cache
+C:\Users\hdhys\Downloads\Test5\Test6\obj\Debug\Test6.csproj.SuggestedBindingRedirects.cache
+C:\Users\hdhys\Downloads\Test5\Test6\obj\Debug\Test6.csproj.CoreCompileInputs.cache
+C:\Users\hdhys\Downloads\Test5\Test6\obj\Debug\Test6.exe
+C:\Users\hdhys\Downloads\Test5\Test6\obj\Debug\Test6.pdb
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\Test5\Test6\bin\Debug\Test6.exe.config
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\Test5\Test6\bin\Debug\Test6.exe
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\Test5\Test6\bin\Debug\Test6.pdb
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\Test5\Test6\obj\Debug\Test6.csproj.AssemblyReference.cache
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\Test5\Test6\obj\Debug\Test6.csproj.SuggestedBindingRedirects.cache
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\Test5\Test6\obj\Debug\Test6.csproj.CoreCompileInputs.cache
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\Test5\Test6\obj\Debug\Test6.exe
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\Test5\Test6\obj\Debug\Test6.pdb

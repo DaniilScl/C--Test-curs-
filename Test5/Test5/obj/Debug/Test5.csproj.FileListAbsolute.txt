@@ -1,0 +1,8 @@
+C:\Users\hdhys\Downloads\Test5\Test5\bin\Debug\Test5.exe.config
+C:\Users\hdhys\Downloads\Test5\Test5\bin\Debug\Test5.exe
+C:\Users\hdhys\Downloads\Test5\Test5\bin\Debug\Test5.pdb
+C:\Users\hdhys\Downloads\Test5\Test5\obj\Debug\Test5.csproj.AssemblyReference.cache
+C:\Users\hdhys\Downloads\Test5\Test5\obj\Debug\Test5.csproj.SuggestedBindingRedirects.cache
+C:\Users\hdhys\Downloads\Test5\Test5\obj\Debug\Test5.csproj.CoreCompileInputs.cache
+C:\Users\hdhys\Downloads\Test5\Test5\obj\Debug\Test5.exe
+C:\Users\hdhys\Downloads\Test5\Test5\obj\Debug\Test5.pdb

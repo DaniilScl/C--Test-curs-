@@ -1,0 +1,15 @@
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\ConsoleApp1\pr 8\bin\Debug\net7.0\pr 8.exe
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\ConsoleApp1\pr 8\bin\Debug\net7.0\pr 8.deps.json
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\ConsoleApp1\pr 8\bin\Debug\net7.0\pr 8.runtimeconfig.json
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\ConsoleApp1\pr 8\bin\Debug\net7.0\pr 8.dll
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\ConsoleApp1\pr 8\bin\Debug\net7.0\pr 8.pdb
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\ConsoleApp1\pr 8\obj\Debug\net7.0\pr 8.csproj.AssemblyReference.cache
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\ConsoleApp1\pr 8\obj\Debug\net7.0\pr 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\ConsoleApp1\pr 8\obj\Debug\net7.0\pr 8.AssemblyInfoInputs.cache
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\ConsoleApp1\pr 8\obj\Debug\net7.0\pr 8.AssemblyInfo.cs
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\ConsoleApp1\pr 8\obj\Debug\net7.0\pr 8.csproj.CoreCompileInputs.cache
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\ConsoleApp1\pr 8\obj\Debug\net7.0\pr 8.dll
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\ConsoleApp1\pr 8\obj\Debug\net7.0\refint\pr 8.dll
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\ConsoleApp1\pr 8\obj\Debug\net7.0\pr 8.pdb
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\ConsoleApp1\pr 8\obj\Debug\net7.0\pr 8.genruntimeconfig.cache
+C:\Users\hdhys\OneDrive\Рабочий стол\код за курс\C#\ConsoleApp1\pr 8\obj\Debug\net7.0\ref\pr 8.dll

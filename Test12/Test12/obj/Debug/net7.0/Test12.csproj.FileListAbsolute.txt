@@ -1,0 +1,15 @@
+J:\программирование\код за курс\C#\Test12\Test12\bin\Debug\net7.0\Test12.exe
+J:\программирование\код за курс\C#\Test12\Test12\bin\Debug\net7.0\Test12.deps.json
+J:\программирование\код за курс\C#\Test12\Test12\bin\Debug\net7.0\Test12.runtimeconfig.json
+J:\программирование\код за курс\C#\Test12\Test12\bin\Debug\net7.0\Test12.dll
+J:\программирование\код за курс\C#\Test12\Test12\bin\Debug\net7.0\Test12.pdb
+J:\программирование\код за курс\C#\Test12\Test12\obj\Debug\net7.0\Test12.csproj.AssemblyReference.cache
+J:\программирование\код за курс\C#\Test12\Test12\obj\Debug\net7.0\Test12.GeneratedMSBuildEditorConfig.editorconfig
+J:\программирование\код за курс\C#\Test12\Test12\obj\Debug\net7.0\Test12.AssemblyInfoInputs.cache
+J:\программирование\код за курс\C#\Test12\Test12\obj\Debug\net7.0\Test12.AssemblyInfo.cs
+J:\программирование\код за курс\C#\Test12\Test12\obj\Debug\net7.0\Test12.csproj.CoreCompileInputs.cache
+J:\программирование\код за курс\C#\Test12\Test12\obj\Debug\net7.0\Test12.dll
+J:\программирование\код за курс\C#\Test12\Test12\obj\Debug\net7.0\refint\Test12.dll
+J:\программирование\код за курс\C#\Test12\Test12\obj\Debug\net7.0\Test12.pdb
+J:\программирование\код за курс\C#\Test12\Test12\obj\Debug\net7.0\Test12.genruntimeconfig.cache
+J:\программирование\код за курс\C#\Test12\Test12\obj\Debug\net7.0\ref\Test12.dll
